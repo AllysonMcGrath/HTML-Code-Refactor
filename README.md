@@ -28,7 +28,7 @@ Detailed instructions for cloning GitHub repositories can be found [here.](https
 
 When displaying correctly, website should look like the image below:
 
-![Horiseon website with navigation, images, and sections](/Develop/assets/images/mockup.png)
+![Horiseon website with navigation, images, and sections](Develop/assets/images/mockup.png)
 
 Use standard git commands within this repository.
 
@@ -44,6 +44,7 @@ $ git push origin main
 Trilogy Education Services, LLC, a 2U, Inc. brand
 
 [Coding Boot Camp at UT](https://github.com/the-Coding-Boot-Camp-at-UT)
+
 [Xander Rapstine](https://github.com/Xandromus)
 
 
