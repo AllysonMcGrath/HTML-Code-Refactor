@@ -18,7 +18,7 @@ Comments were also added to the css in order to show where the rules were being 
 
 To install this project, you can clone the repository by using the command prompt
 
-$ git clone https://github.com/AllysonMcGrath/cbcchallenge1.git
+$ git clone https://github.com/AllysonMcGrath/HTML-Code-Refactor.git
 
 Detailed instructions for cloning GitHub repositories can be found [here.](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository)
 
